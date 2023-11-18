@@ -1,0 +1,4 @@
+{
+    "extends": "@blood-sky/ts-config/react.json",
+    "include": ["src"]
+}
